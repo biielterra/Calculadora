@@ -1,2 +1,2 @@
 # Calculadora Simples
-:hand:
+:U+1F44B:
