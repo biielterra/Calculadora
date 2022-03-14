@@ -1,2 +1,2 @@
-# Calculadora
- Calculadora-HTML-CSS-JS
+# Calculadora Simples
+:hand:
